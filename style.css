@@ -1,11 +1,11 @@
-body{
+body {
     margin: 0 auto;
     padding: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 3px;
 }
 
-.head{
+.head {
     background-image: url('images/fundo.jpg');
     width: 100%;
     height: 100%;
@@ -16,35 +16,35 @@ body{
     background-size: cover;
 }
 
-.head .logo{
+.head .logo {
     height: 50%;
     filter: drop-shadow(0px 0px 30px black);
 }
 
-.ufs{
+.ufs {
     height: 150px;
     padding: 5%;
 }
 
-.body{
+.body {
     color: white;
-    background-color:  #17202a;
+    background-color: #17202a;
     width: 100%;
 }
 
-.body .quemsomos{
+.body .quemsomos {
     width: 70%;
     padding: 5%;
     text-align: justify;
 }
 
-.body .membros{
+.body .membros {
     width: 70%;
     padding: 5%;
     text-align: justify;
 }
 
-.head .info{
+.head .info {
     width: 70%;
     padding: 1%;
     margin-top: 5%;
@@ -52,4 +52,15 @@ body{
     font-size: 30px;
     color: white;
     text-shadow: 0 0 15px #17202a;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 98%;
+    color: white;
+    text-align: center;
+    background-color: #2e4053;
+    margin: 0;
+    padding: 1%;
 }
