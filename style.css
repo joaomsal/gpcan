@@ -64,3 +64,9 @@ body {
     margin: 0;
     padding: 1%;
 }
+
+.btn-social {
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+}
